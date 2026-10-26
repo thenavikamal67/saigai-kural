@@ -1,0 +1,6 @@
+sample_id,label,english,tamil,features_json,status
+S001,HELLO,Hello,வணக்கம்,[],placeholder
+S002,THANK_YOU,Thank you,நன்றி,[],placeholder
+S003,YES,Yes,ஆம்,[],placeholder
+S004,NO,No,இல்லை,[],placeholder
+S005,HELP,Help,உதவி,[],placeholder
